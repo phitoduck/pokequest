@@ -9,7 +9,148 @@ with a bunch of code files in it.
 Git repositories are a nice way of uploading your code to the cloud in case you want to share it with other people. They're great for project portfolios, staying organized, showing off your code, and working on code with more
 than one person.
 
-## Instructions
+# The Ultimate Python Project
+
+More details are on our Notion page 😄
+
+```bash
+__________            __                      ________                                __    
+\______   \   ____   |  | __   ____           \_____  \    __ __    ____     ______ _/  |_  
+ |     ___/  /  _ \  |  |/ / _/ __ \   ______  /  / \  \  |  |  \ _/ __ \   /  ___/ \   __\ 
+ |    |     (  <_> ) |    <  \  ___/  /_____/ /   \_/.  \ |  |  / \  ___/   \___ \   |  |   
+ |____|      \____/  |__|_ \  \___  >         \_____\ \_/ |____/   \___  > /____  >  |__|   
+                          \/      \/                 \__>              \/       \/
+
+Welcome to your Pokemon journey!
+
+What would you like to do?
+	[1] 🌲 start a new game
+	[2] 💾 load an existing game
+
+>>> 1
+
+---
+
+What is your name?
+
+>>> Faith
+
+---
+
+Faith! Well... you are free to begin.
+
+What would you like to do?
+	[1] 🚀 look for wild pokemon!
+	[2] 😡 battle a trainer! (bonus)
+	[3] 🏥 heal my pokemon
+	[4] 🔎 examine my pokemon 
+	[5] 💾 save
+	[6] 👋 quit
+
+>>> 3
+
+Your pokemon are at full health!
+
+---
+
+What would you like to do?
+	[1] 🚀 look for wild pokemon!
+	[2] 😡 battle a trainer! (bonus)
+	[3] 🏥 heal my pokemon
+	[4] 🔎 examine my pokemon 
+	[5] 💾 save
+	[6] 👋 quit
+
+>>> 4
+
+You have 2/6 adorable little Poke-friends:
+	- Pikachu: 
+			HP (10/10) 
+			Level 10
+			Experience 5/11
+			Moves:
+				(1) ⚡️ thunderbolt - FEEL THE POWAAHHH! deal some damage
+				(2) 🕺breakdance  - live your best life; regain some health
+				(3) 🙈distraction - dazzle the opponent; they might lose their turn
+	- Refrigerator-mon: 
+			HP (1/1) 
+			Level 1 
+			Experience 0/2
+			Moves:
+				(1) 🍟crisper    - That sweet, sweet crisper; do nothing
+				(2) ❄️ freeze     - So... cold...; deal some damage
+
+---
+
+What would you like to do?
+	[1] 🚀 look for wild pokemon!
+	[2] 😡 battle a trainer! (bonus)
+	[3] 🏥 heal my pokemon
+	[4] 🔎 examine my pokemon 
+	[5] 💾 save
+	[6] 👋 quit
+
+>>> 1
+
+A wild Squirtle appeared! Go Pikachu!
+
+---
+
+Squirtle: HP (10/10)  Level: 5
+Pikachu:  HP (20/20)  Level: 10
+What would you like to do? 
+	[1] run 
+	[2] fight
+	[3] throw pokeball
+	[4] change pokemon
+
+>>> 1
+
+You failed to escape.
+
+Squirtle used bubble blower. Pikachu is took 2 damage!
+
+---
+
+Squirtle: HP (10/10)  Level: 5
+Pikachu:  HP (18/20)  Level: 10
+What would you like to do? 
+	[1] run 
+	[2] fight
+	[3] throw pokeball
+	[4] change pokemon
+
+>>> 2
+
+Which move?
+	[1] ⚡️ thunderbolt - FEEL THE POWAAHHH! deal some damage
+	[2] 🕺breakdance  - live your best life; regain some health
+	[3] 🙈distraction - dazzle the opponent; they might lose their turn
+	[4] cancel
+
+>>> 1
+
+Pika-CHUUUUUUUUUU! Pikachu used ⚡️ thunderbolt. Squirtle took 5 damage.
+
+Squirtle squirtle! Squirtle used 💦 squirt gun. Pikachu took 3 damage!
+
+---
+
+Squirtle: HP (10/10)  Level: 5
+Pikachu:  HP (18/20)  Level: 10
+What would you like to do? 
+	[1] run 
+	[2] fight
+	[3] throw pokeball
+	[4] change pokemon
+
+... repeat until:
+	a) you catch squirtle
+	b) all your pokemon are dead
+	c) squirtle is dead
+```
+
+## Instructions to set up `VS Code` to do this project
 
 It's totally fine if these instructions don't make sense. Following them blindly
 will lead you to success!
