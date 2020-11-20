@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/usr/bin/python",
+    "python.pythonPath": "PASTE YOUR VIRTUAL ENVIRONMENT PATH HERE. Use pipenv --venv or look into python -m venv",
     "python.linting.enabled": true,
     "python.linting.lintOnSave": true,
     "python.linting.pylintEnabled": false,
