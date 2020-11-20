@@ -70,7 +70,7 @@ If you saw no errors after running that guy ^^^, the hard part is over!
 2. Install a bunch of "Extensions" from the extension store. The extension store is on the lefthand sidebar. If you can't find it, you can open it up with `SHIFT` + `COMMAND` + `X`.
 3. You can paste the list of extension id's below into the search bar to see the ones I like to use. Go ahead and install them all. You can read their little description pages if you want to get a feel for what they're about. That's not necessary though.
 
-Extension Ids:
+Extension Ids: ⚡️
 ```bash
 ms-python.python njpwerner.autodocstring bmuskalla.vscode-tldr mechatroner.rainbow-csv designbyajay.bash-cli-snippets aaron-bond.better-comments coenraads.bracket-pair-colorizer naumovs.color-highlight ms-vsliveshare.vsliveshare yzhang.markdown-all-in-one ibm.output-colorizer christian-kohler.path-intellisense hoovercj.vscode-power-mode oderwat.indent-rainbow naumovs.color-highlight ms-python.vscode-pylance
 ```
@@ -96,4 +96,4 @@ it should look like:
 "python.pythonPath": "/Users/faith/and/her/path/to/pokequest-python"
 ```
 
-Save the file. AND. YOU. ARE. DONE!
+Save the file. AND. YOU. ARE. DONE! You now have a **DOPE** `VS Code` setup, and the beginnings of a python project that you can copy/paste/change any time you want to throw together some python code for school or for fun. The other kids in your class are gonna be jealous.
