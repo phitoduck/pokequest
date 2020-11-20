@@ -1,0 +1,22 @@
+{
+    "python.pythonPath": "/usr/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.pylintEnabled": false,
+    // "python.linting.pylintArgs": [
+    //     "--rcfile=linting.cfg"
+    // ],
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--config=linting.cfg"
+    ],
+    "python.linting.mypyEnabled": false,
+    // "python.linting.mypyArgs": [
+    //     "--config-file=linting.cfg"
+    // ],
+    // formats the code every time you save (using something called "black")
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    // autocomlete, autoimports, hints as you type, colors code a bit more
+    "python.languageServer": "Pylance"
+}
